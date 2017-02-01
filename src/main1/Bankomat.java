@@ -61,12 +61,4 @@ public class Bankomat implements acceptable{
 		}
 		return sum;
 	}
-	
-/*	@Override
-	public int count(Babos b) {
-		if(s){
-			sum+=b.getAmout();
-		}
-		return sum;
-	}*/
 }
