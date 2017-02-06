@@ -1,7 +1,11 @@
 package main1.copy;
 
 public enum Country {
-CHINA,
-AUSTRALIEN,
-CHILIE
+UKRAINE,
+GERMANY,
+USA,
+JAPAN,
+VAO,
+UNITED_KINGDOM,
+RUSSIA
 }
